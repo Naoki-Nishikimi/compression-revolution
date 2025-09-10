@@ -68,3 +68,9 @@ This repository serves as both documentation and **proof of intellectual priorit
 ---
 
 ## 📂 Repository Structure
+
+---
+## ⚠️ License Notice
+This repository is provided with **No License**.  
+All rights are reserved by the author (Naoki Nishikimi).  
+Unauthorized use, reproduction, or distribution of the contents in any form is strictly prohibited.
